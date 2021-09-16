@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shubhank Sargam
-- 👀 This is my new account
 - 🌱 I'm currently working on my tech stack
 
 - 📫 [My linkedin](https://www.linkedin.com/in/shubhanks/)
