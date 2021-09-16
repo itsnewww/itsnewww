@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shubhank Sargam
+- 👋 Hi there
 - 🌱 I'm currently working on my tech stack
 
 - 📫 [My linkedin](https://www.linkedin.com/in/shubhanks/)
